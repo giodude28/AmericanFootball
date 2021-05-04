@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">American Football</string>
+
+    <string name="Open" />
+    <string name="Close" />
+    <string name="game">• Normal play consists of two teams of 11 players on field (one on offence the other on defence) competing during four 15 minute quarters.
+\n\n
+• There are usually three ‘time-outs’ per half for each team, with a 12 minutes half-time interval.
+\n\n
+• The purpose of the game is to move the ball into the oppositions end zone, either by running with the ball until tackled, or by passing the ball to a teammate downfield, towards the end zone.
+\n\n
+• Although there are only 11 players from each side on the field at any one time, a team is actually made up of 45 players. The key player on each side is the quarterback who attempts to dictate play.</string>
+
+
+    <string name="Down">• Downs are the part of the game which often needlessly confuses newcomers. They are actually fairly straightforward. In a nutshell, the rule is as follows:
+\n\n
+• The team in possession of the ball (offence) needs to move the ball forward by at least 10 yards while they are on offence. This is why the pitch has clearly marked yardage lines on it.
+\n\n
+• They have four chances, or downs, to gain those 10 yards and if they advance the ball that far, the count resets and the team earns another set of four downs to try go a further 10 yards.
+\n\n
+• If the offensive team fails to move these 10 yards within four downs, possession is then given up and the defensive side gets their turn to play offense. Teams will usually kick for a field goal or downfield to the defending team on the fourth down to try and salvage some points before they lose possession.</string>
+
+    <string name="Scoring">The ultimate aim in American football is similar to pretty much every other sport out there − to score more points than the opposition. Scoring is worked out in the game as follows:</string>
+
+    <string name="touchdown">Touchdown (6 Points)</string>
+    <string name="touchdowndesc">A touchdown is scored when a team crosses the oppositions goal line with the ball, or catches or collects the ball in the end zone.</string>
+    <string name="field">Field Goal (3 Points)</string>
+    <string name="fileddesc">A team will usually attempt these on the fourth down - if the kicker is close enough to the end zone to kick the ball through between the upright posts.</string>
+    <string name="extra">Extra Point (1 Or 2 Points)</string>
+    <string name="extradesc">An extra point is earned by kicking the ball through the uprights after a touchdown (its similar to a conversion in rugby). Two points are earned by taking the ball into the end zone again, but since it is more difficult, most teams opt to take the 1pt.</string>
+    <string name="safety">Safety (2 Points)</string>
+    <string name="safetydesc">The defensive team can gain 2 pts if they tackle a member of the offensive team with the ball in their own end zone.
+\n\n
+We hope this guide has armed you with the necessary tools to get to grips with the game. As with any other sport, football has numerous other elements and rules in addition to the ones outlined here, but by understanding the flow of the game and the scoring, you should be able to at least enjoy and understand it as you fill in the gaps.</string>
+
+
+    <string name="american">\t American football is a tough, physical game requiring a wide range of attributes including explosive power, strength, agility, speed, and physical and mental toughness. The huge collisions and intricate plays involving the 22 players on the field are what make the sport the spectacle that it is.
+\n\n
+\t Games can take up to 3 hours to complete and can look quite complex, largely because each play is often highly tactical. In reality football is actually a relatively easy sport to follow and enjoy. It is the complexities of the sport, gained from years of avid watching, which make the game so interesting to watch and make it more than a test of brute strength and muscle. Also referred to as American football, as distinct from football (or soccer as it is also known.) In some countries, American football is often referred to as gridiron or gridiron football to differentiate it from other football games.</string>
+
+    <string name="continues"><u>Continue</u></string>
+
+    <string name="nfl">\t The National Football League (NFL) is the pinnacle of the sport in the US and the world. It consists of 32 teams split into two conferences – the American Football Conference (AFC) and the National Football Conference (NFC). Within each conference there are four divisions (North, South, East and West) with four teams in each.
+\n\n
+\t The pinnacle of the season is the final championship game, the Super Bowl, played by each conference champion; a game that is watched by an estimated half of all US households and which is broadcasted in around 150 nations worldwide.
+\n\n
+\t The NFL operated a now defunct developmental league, NFL Europa, with teams in five German cities and one in the Netherlands. The professional Canadian Football League plays under slightly different Canadian rules.</string>
+</resources>
